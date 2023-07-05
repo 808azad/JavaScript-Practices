@@ -1,0 +1,10 @@
+
+> web222-assignment-2@6.0.0 eslint
+> eslint src/**/*.js
+
+
+C:\Users\Zohrab Zeynalli\OneDrive\Documents\SENECA\2semester\WEB222\Home Stuff\Assignments\2\a2\src\observations.js
+  167:61  error  Parsing error: Unexpected token .
+
+✖ 1 problem (1 error, 0 warnings)
+
